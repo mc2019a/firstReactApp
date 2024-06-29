@@ -19,6 +19,7 @@ function App() {
         </a>
         <p>
             {new Date().getFullYear()}
+            {/*императивный код*/}
         </p>
       </header>
     </div>
